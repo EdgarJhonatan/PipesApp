@@ -16,6 +16,10 @@ const routes: Routes = [
     component: NumerosComponent,
   },
   {
+    path: 'basicos',
+    component: BasicosComponent,
+  },
+  {
     path: 'no-comunes',
     component: NoComunesComponent,
   },
